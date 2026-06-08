@@ -70,3 +70,64 @@ Aditya – Documentation & Version Control
   - README update.  
   - GitHub commits with proper documentation.  
   - ER diagram showing table relations
+    Division of Work for week :3
+MANSI  – Dashboard Designer
+- Tasks:
+  - Import SQL query outputs or Excel dataset into Power BI/Tableau.
+  - Design the overall dashboard layout (navigation, filters, slicers).
+  - Create visualizations for KPIs:
+    - Total Revenue (card/summary view).
+    - Best-Selling Products (bar chart).
+    - Revenue by City/Region (map or stacked bar).
+    - Peak Purchase Times (line chart by hour).
+- Deliverables:
+  - Draft dashboard with all KPI visuals.
+  - Layout template for final presentation.
+HRUSIKESH –– Data Visualization Specialist
+- Tasks:
+  - Refine visuals for clarity and aesthetics (color coding, legends, labels).
+  - Add interactive elements (filters by date, product category, city).
+  - Ensure consistency in units, formats, and scales.
+  - Test dashboard responsiveness with sample queries.
+- Deliverables:
+  - Polished KPI charts.
+  - Interactive dashboard features (slicers, drill-downs).
+
+ADITYA  – Documentation & Integration Lead
+- Tasks:
+  - Document dashboard components (each KPI → chart type → business meaning).
+  - Write a user guide explaining how to navigate and interpret the dashboard.
+  - Integrate dashboard files into GitHub repository.
+  - Update README with Week 3 progress and screenshots.
+- Deliverables:
+  - Dashboard documentation (PDF/Markdown).
+  - GitHub commits with dashboard files and guide.
+Division of Work for week :4
+MANSI  – Insight Analyst
+- Tasks:
+  - Interpret KPIs and dashboard outputs from Week 3.  
+  - Identify business trends (e.g., top products, regional performance, peak times).  
+  - Highlight anomalies or improvement areas (low-performing categories, inventory gaps).  
+  - Draft actionable recommendations (marketing, stocking, pricing strategies).  
+- Deliverables:  
+  - Insight summary document.  
+  - Recommendations section for final report.  
+HRUSIKESH – Report Writer
+- Tasks:
+  - Compile findings into a structured professional report.  
+  - Sections: Executive Summary, Methodology, KPIs, Insights, Recommendations.  
+  - Include charts and visuals exported from dashboards.  
+  - Ensure clarity, conciseness, and professional formatting.  
+- Deliverables:  
+  - Final written report (Word/PDF).  
+  - Polished visuals integrated into the report.  
+ADITYA  – Presentation & Documentation Lead
+- Tasks:
+  - Prepare final presentation slides (PowerPoint/Google Slides).  
+  - Summarize Week 1–4 workflow, KPIs, insights, and recommendations.  
+  - Add visuals (charts, ER diagram, dashboard screenshots).  
+  - Update GitHub repository with final report and presentation files.  
+- Deliverables:  
+  - Final presentation deck.  
+  - Updated GitHub repository with all project artifacts.
+
