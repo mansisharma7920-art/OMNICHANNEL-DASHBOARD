@@ -70,6 +70,7 @@ Aditya – Documentation & Version Control
   - README update.  
   - GitHub commits with proper documentation.  
   - ER diagram showing table relations
+    Division of Work for week :3
   - Division of Work for week :3
 MANSI  – Dashboard Designer
 - Tasks:
