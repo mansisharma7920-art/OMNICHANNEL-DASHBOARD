@@ -71,6 +71,7 @@ Aditya – Documentation & Version Control
   - GitHub commits with proper documentation.  
   - ER diagram showing table relations
     Division of Work for week :3
+  - Division of Work for week :3
 MANSI  – Dashboard Designer
 - Tasks:
   - Import SQL query outputs or Excel dataset into Power BI/Tableau.
